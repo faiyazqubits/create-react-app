@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Hello-World-React-App with Faiyaz Ansari.
         </a>
       </header>
     </div>
