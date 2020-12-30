@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn Hello-World-React-App with Faiyaz Ansari. 
-          Make Second changes. pulled docker image testing.
+          Testing pipeline.
         </a>
       </header>
     </div>
