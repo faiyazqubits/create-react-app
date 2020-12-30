@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn Hello-World-React-App with Faiyaz Ansari. 
-          Testing pipeline.
+          Testing pipeline. Adding Load Balancer.
         </a>
       </header>
     </div>
