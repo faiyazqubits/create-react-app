@@ -1,9 +1,13 @@
 version: 0.2
 phases:
+    install:
+      runtime-versions:
+        nodejs: 10.19.0
+        npm: 6.14.4
+
     pre_build:
         commands:
-            - echo install nodejs
-            - apt update
+            - echo PreBuild
     build:
         commands:
             - npm run build
