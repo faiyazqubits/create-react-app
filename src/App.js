@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Hello-World-React-App with Faiyaz Ansari. 
-          Testing pipeline. Adding Load Balancer.
+          Learn Hello-World-React-App testing on 31 December.
         </a>
       </header>
     </div>
