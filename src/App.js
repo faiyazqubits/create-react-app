@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Hello-World-React-App testing on 31 December using S3.
+          Learn Hello-World-React-App testing on 31 December using Beanstalk.
         </a>
       </header>
     </div>
