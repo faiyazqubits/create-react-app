@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Hello-World-React-App testing on 31 December CI testin-1.
+          Learn Hello-World-React-App testing on 31 December CI testing-1.
         </a>
       </header>
     </div>
