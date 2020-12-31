@@ -2,14 +2,10 @@ version: 0.2
 phases:
     pre_build:
         commands:
-            - echo Upgrade the System
-            - apt update
-            - echo Install NodeJs
-            - apt install nodejs -y
             - echo Verify Install
             - nodejs -v
             - echo Install NPM
-            - apt install npm
+            - apt install -y npm
     build:
         commands:
             - npm run build
