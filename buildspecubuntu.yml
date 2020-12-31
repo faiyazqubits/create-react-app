@@ -3,11 +3,7 @@ phases:
     pre_build:
         commands:
             - echo install nodejs
-            - nodejs install
-            - echo Verify Install
-            - nodejs -v
-            - echo Install NPM
-            - npm install
+            - apt update
     build:
         commands:
             - npm run build
