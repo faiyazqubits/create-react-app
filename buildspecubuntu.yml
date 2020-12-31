@@ -1,0 +1,20 @@
+version: 0.2
+phases:
+    pre_build:
+        commands:
+            - echo Upgrade the System
+            - apt upgrade -y
+            - echo Install NodeJs
+            - apt install nodejs
+            - echo Verify Install
+            - nodejs -v
+            - echo Install NPM
+            - apt install npm
+    build:
+        commands:
+            - npm run build
+artifacts:
+    files:
+        - '**/*'
+    discard-paths: no
+    build-directory: build
