@@ -9,7 +9,7 @@ phases:
             - echo Verify Install
             - nodejs -v
             - echo Install NPM
-            - apt install npm -y
+            - apt install npm
     build:
         commands:
             - npm run build
