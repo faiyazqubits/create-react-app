@@ -3,7 +3,7 @@ phases:
     pre_build:
         commands:
             - echo Upgrade the System
-            - apt upgrade -y
+            - apt update
             - echo Install NodeJs
             - apt install nodejs
             - echo Verify Install
