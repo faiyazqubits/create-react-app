@@ -2,8 +2,7 @@ version: 0.2
 phases:
     install:
       runtime-versions:
-        nodejs: 10.19.0
-        npm: 6.14.4
+        nodejs: 10
 
     pre_build:
         commands:
