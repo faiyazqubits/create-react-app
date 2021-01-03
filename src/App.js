@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dleted Load Balancing.
+          Dleted Load Balancing. t
         </a>
       </header>
     </div>
