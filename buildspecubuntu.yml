@@ -2,7 +2,6 @@ version: 0.2
 phases:
     pre_build:
         commands:
-            - nodejs -v
             - npm install
     build:
         commands:
