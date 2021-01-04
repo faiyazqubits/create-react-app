@@ -12,5 +12,5 @@ phases:
 artifacts:
     files:
         - '**/*'
-    discard-paths: no
-    build-directory: build
+    discard-paths: yes
+    build-directory: ~/node_modules
