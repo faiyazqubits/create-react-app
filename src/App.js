@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deleted Load Balancing. this is 5th December.
+          Build pipeline without CodeBuild..
         </a>
       </header>
     </div>
