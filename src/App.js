@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Deleted Load Balancing. this is 4th December.
+          Deleted Load Balancing. this is 5th December.
         </a>
       </header>
     </div>
