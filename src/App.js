@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Build pipeline without CodeBuild..
+          Build pipeline without CodeBuild. Test for validation of Pipeline.
         </a>
       </header>
     </div>
